@@ -1,0 +1,7 @@
+[user]
+	email = scrv.201@outlook.com
+	name = Sebastian Carrera
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
